@@ -1,4 +1,4 @@
-# Hi, I’m **ltl902**
+# Hi, I’m ****Brody****
 
 I’m a passionate developer exploring simulation, automation, and interactive systems.  
 This profile showcases my projects — from medical inventory systems to life simulators — spanning multiple domains and demonstrating diverse technical skills.
